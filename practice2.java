@@ -17,5 +17,6 @@ class main1 {
 void add(int x, int y , int z){
 	int zz = x+y+z;
 	System.out.println(zz);
+System.out.println("ff");
 	}
 }
